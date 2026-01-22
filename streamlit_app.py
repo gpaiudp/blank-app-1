@@ -4,3 +4,35 @@ st.title("🎈 My new app")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Am I HTML already?</title>
+</head>
+<body>
+<h1>Hello, World Wide Web!</h1>
+<p>This is my first website.</p>
+
+<h2>About me</h2>
+<p>I'm a Python programmer and a bug collector.</p>
+
+<h3>Random facts</h3>
+<p>I don't just <em>like</em> emoji,<br>
+I <strong>love</strong> emoji!</p>
+<p>My most-used emoji are:</p>
+<ol>
+    <li>🐞</li>
+    <li>🐍</li>
+    <li>👍</li>
+</ol>
+
+<h2>Links</h2>
+<p>My favorite websites are:</p>
+<ul>
+    <li>realpython.com</li>
+    <li>python.org</li>
+    <li>pypi.org</li>
+</ul>
+</body>
+</html>
